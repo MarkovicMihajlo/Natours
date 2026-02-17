@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass" : "sass sass/main.scss css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkovicMihajlo/Natours.git"
+  },
+  "author": "Mihajlo Markovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkovicMihajlo/Natours/issues"
+  },
+  "homepage": "https://github.com/MarkovicMihajlo/Natours#readme",
+  "devDependencies": {
+    "sass": "^1.97.3"
+  }
+}
